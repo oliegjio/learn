@@ -20,3 +20,8 @@ deb http://archive.ubuntu.com/ubuntu trusty universe
 
 ### Compiling C++ and C Programs:
 Install: `sudo apt-get install g++ gcc build-essential`.
+
+### Wifi Networks:
+
+1. Scan for networks: `sudo iwlist wlan0 scan`.
+2. Connect to the network: `sudo iwconfig <interface> essid <SSID>`.
