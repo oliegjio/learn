@@ -14,3 +14,7 @@
 
 - List of all standard modules: https://downloads.haskell.org/~ghc/latest/docs/html/libraries/.
 - Search Haskell functions: https://www.haskell.org/hoogle/.
+
+### Debian Haskell Installation:
+1. `sudo apt-get install haskell-platform`.
+2. `cabal update`.
