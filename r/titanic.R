@@ -1,5 +1,5 @@
-train <- read.csv("./csv/train.csv", header = T)
-test <- read.csv("./csv/test.csv", header = T)
+train <- read.csv("./data/train.csv", header = T)
+test <- read.csv("./data/test.csv", header = T)
 
 # Adding 'survived' column to the table 'test' with all the values equal to 'None'.
 test.survived <- data.frame(survived = rep("None", nrow(test)), test[,])
