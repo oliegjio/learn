@@ -5,6 +5,7 @@
 - Simples math.
 - Basic input and output, printing.
 - Variable assigning.
+- Deleting a variable (if simple and not memory management).
 - Assigning multiple variables.
 - Comments and multiline comments.
 - Basic syntax explanation: parentheses, indentation.
