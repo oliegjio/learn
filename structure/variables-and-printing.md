@@ -1,0 +1,10 @@
+- Basic data types, such as: integers, booleans, strings.
+- Multiline strings.
+- Interpolation.
+- Simple actions on basic types (also strings).
+- Simples math.
+- Basic input and output, printing.
+- Variable assigning.
+- Assigning multiple variables.
+- Comments and multiline comments.
+- Basic syntax explanation: parentheses, indentation.
