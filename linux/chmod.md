@@ -1,0 +1,10 @@
+- `chmod u=rwx,g=rx,o=r <file_name>`. Where `u` - user, `g` - group, `o` - other.
+- Numeric:
+  - 4 : read.
+  - 2 : write.
+  - 1 : execute.
+  - 0 : no permissions.
+- `chmod 754 <file_name>` translates as:
+  - User can: read, write, execute (4 + 2 + 1).
+  - Group can: read, execute (4 + 0 + 1).
+  - Others can: read (4 + 0 + 0).

@@ -1,0 +1,2 @@
+- List archive contents: `unzip -l <archive_name>`.
+- Extract archive: `unzip <archive_name>`.

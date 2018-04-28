@@ -1,0 +1,1 @@
+- `__doc__` - Prints out documentation for class, module or function.

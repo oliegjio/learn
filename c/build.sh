@@ -1,5 +1,5 @@
 #!/bin/bash
 
-gcc ./main.c -o ./build/executable.out
+gcc ./main.c -o ./executable.out
 
-./build/executable.out
+./executable.out

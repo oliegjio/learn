@@ -1,0 +1,5 @@
+- List content of the archive: `tar tvf <archive_name>`.
+- Working with `tar.gz` archive:
+  - Extract: `tar xzvf <archive_name.tar.gz>`.
+  - Extract to a different directory: `tar xzvf <archive_name.tar.gz> -C <path_do_directory>`.
+  - Extract specific file from archive: `tar xzvf <archive_name.tar.gz> <path_to_file_in_archive>`.

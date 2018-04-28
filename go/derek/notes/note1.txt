@@ -1,5 +1,0 @@
-To execute the Go file:
-   go run <filename>
-
-See documentation:
-    godoc <package_name> <symbol_name>

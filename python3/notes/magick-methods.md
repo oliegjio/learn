@@ -1,0 +1,13 @@
+- `__del__()` - Defines behavior for when an object is garbage collected.
+- `__cmp__(self, other)` - Implements behavior for all of the comparison operators. Should return negative integer (<), zero (=) or positive integer (>).
+- `__eq__(self, other)` - Defines behavior for the equality (=) operator.
+- `__ne__(self, other)` - Defines behavior for the inequality (!=) operator.
+- `__lt__(self, other)` - Defines behavior for the less-than (<) operator.
+- `__gt__(self, other)` - Defines behavior for the greater-than (>) operator.
+- `__le__(self, other)` - Defines behavior for the less-than-or-equal-to (<=) operator.
+- `__ge__(self, other)` - Defines behavior for the greater-than-or-equal-to (>=) operator.
+- `__add__(self, other)` - Implements addition (+).
+- `__sub__(self, other)` - Implements substraction (-).
+- `__mul__(self, other)` - Implements multiplication (*).
+- `__div__(self, other)` - Implements division (/).
+- `__pow__(self, other)` - Implements behavior

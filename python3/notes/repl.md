@@ -1,0 +1,5 @@
+- Enter to REPL: `python3` or `python2`.
+- Load file to REPL:
+  - Python 3: `exec(open('<file_name.py>').read())`.
+  - Python 2: `execfile('<file_name.py>')`.
+  - Run REPL like this: `python3 -i <file_name.py>`.
