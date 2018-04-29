@@ -1,0 +1,9 @@
+- Find files in current directory
+  - Case sensitive: `find -name <selector>`.
+  - Case insensitive: `find -iname <selector>`.
+- Find files in the specific directory: `find <where> -iname <selector>`.
+- Sort output of `find`: `find -name <selector> | sort`.
+- Copy finded files: `find <where> -iname <selector> -exec cp {} <destination> \;`. `find` command use `{}` as placeholder for matched file.
+- Difference between `\;` and `+`:
+  - With `\;` a single `exec` command for each file is executed.
+  - With `+` as many files as possible are given as parameters to `exec` command at once.
