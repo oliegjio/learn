@@ -11,7 +11,7 @@ hello: main.o function1.o function2.o
 
 # There `main.cpp` file is the dependency for `main.o` build target. If this file exists - run this target.
 main.o: main.cpp # Dependency: `main.cpp`.
-	g++ -c main.cpp # If exists, run this command.
+	g++ -c main.cpp # If exists, run this command. Compile `main.cpp` file and produce `.o` file.
 
 function1.o: function1.cpp
 	g++ -c function1.cpp
@@ -21,4 +21,4 @@ function2.o: function2.cpp
 
 # On `make clean` remove all `*.o` files.
 clean: # Build target `clean`.
-	rm -rf *.o # Command.
+	rm *.o # Command.
