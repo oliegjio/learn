@@ -1,0 +1,10 @@
+- Use Atom wih plugins:
+  - `autocomplete-haskell`.
+  - `haskell-ghc-mode`.
+  - `ide-haskell`.
+  - `ide-haskell-cabal`.
+  - `language-haskell`.
+- Install globally through Stack:
+  - `stylish-haskell` (latest LTS).
+  - `ghc-mod` (laxst time worked with LTS 9.21).
+- Run inside your Stack project: `stack build ghc-mod`.
