@@ -1,0 +1,26 @@
+- Arrows:
+  - Solid line with empty triangle as an arrow - inheritance.
+  - Dashed line with empty triangle as an arrow - implementation.
+  - Solid line with an open arrowhead - unidirectional associantion. One class is aware of other.
+  - Solid line without an arrow - bidirectional association. Both classes are aware of each other.
+- Class Fields:
+  - Public (+).
+  - Private (-).
+  - Protected (#).
+  - Package (~).
+  - Derived (/).
+  - Static (underlined).
+- Elements:
+  - Class:
+    - Names.
+    - Attributes:
+      - Array: `field: FieldType[1..*]`.
+      - Ordered array: `field: FieldType[1..*]{ordered}`.
+    - Methods.
+  - Signals. Symbol that represents one-way asynchronous communicaiton.
+  - Data types.
+  - Packages.
+  - Interfaces.
+  - Enumerations.
+  - Objects.
+  - Artifacts.
