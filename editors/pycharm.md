@@ -1,0 +1,14 @@
+# Shortcuts:
+- `Ctrl + Y` - Delete line.
+- `Ctrl + N` - Find class.
+- `Ctrl + Shift + N` - Open some file.
+- `Ctrl + Space` - Complete suggestion. Pressing twice for extended completion.
+- `Alt + Shift + F7` - Find usage of thing under cursor.
+- `Ctrl + Q` - See documentation for thing under cursor.
+- `Ctrl + B` or `Ctrl + Click` - Go to declaration.
+- `Ctrl + F12` - Outline file.
+  - `Enter` or `F4` - Select entry.
+- `Shift + F6` - Rename thing under cursor.
+- `Shift + Click` or `Middle Click` on tab - Close tab.
+- `Alt + Shift + F1` - Select currently edited element.
+- `Ctrl + W` - Extended selection.

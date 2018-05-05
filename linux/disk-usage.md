@@ -1,0 +1,2 @@
+- `df` : Show disk usage.
+- `du <path>` : Display the ammount of disk space used by file / directory.

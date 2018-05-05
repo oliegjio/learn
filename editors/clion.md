@@ -1,0 +1,44 @@
+# Shortcuts:
+- `Shift + F10` - Run project.
+- `Shift + F9` - Debug project.
+- `Ctrl + F2` - Stop debugging.
+- `Ctrl + F9` - Build project.
+- `Alt + Enter` - Quick fix error.
+- `Ctrl + Space` - Somplete 'code completion' suggestion.
+- `Ctrl + N` - Find class.
+- `Alt + F7` - Find usage for thing under cursor.
+- `Ctrl + Alt + F7` - Find usage (extended) for thing under cursor.
+- `Ctrl + Shift + F7` - Quickly highlight usages of some variable in the current file.
+  - `F3` and `Shift + F3` - Navigate through highlighted usages.
+  - `Escape` - Remove highlighting.
+- `Ctrl + B` or `Ctrl + Click` - Find declaration of thing under cursor.
+- `Ctrl + H` - Open class hierarchies.
+- `Ctrl + Shift + I` - View definition or content of thing under cursor (but don't open it).
+- `Ctrl + P` - If cursor is between parentheses of a method call, brings up a list of valid parameters.
+- `Ctrl + F12` - Outline current file contents.
+- `Alt + F1` - Quickly select the currently edited element.
+- `Ctrl + Alt + T` - Wrap selected code in useful constructs (if, while...).
+- `Ctrl + Shift + Enter` - Complete statements.
+- `Alt + Insert` - Generate constructors, destructors, getters and setters...
+- `Shift + F6` - Rename thing under cursor.
+- `F6` - If selected a file or directory in Project window, move selected thing.
+- `Ctrl + Alt + N` - Inline refactoring.
+- `Ctrl + Alt + V` - Extract variable refactoring.
+- `Ctrl + Alt + M` - Extract method refactoring.
+- `Ctrl + Alt + D` - Extract define refactoring.
+- `Ctrl + Alt + K` - Extract typedef refactoring.
+- `Ctrl + Alt + P` - Extract parameter refactoring.
+- `Ctrl + Alt + C` - Extract constant refactoring.
+- `Ctrl + F6` - Change signature of the method under cursor.
+- `Ctrl + O` - Override functions of the base class.
+- `Ctrl + I` - Implement pure virtual functions.
+- `Ctrl + Shift + D` - Generate definitions for current declarations.
+- `Ctrl + Alt + Shift + I` - Run inspection (unused variables, unused imports...).
+
+# Menus:
+- `View | Quick Documentation` - Quickly review documentation for the selected class.
+- `Refactor | Extract Subclass` - Extract a subclass.
+- `Refactor | Extract Superclass` - Extract a superclass.
+- `Code | Reformat Code` - Reformat code according to your code style.
+- `Code | Optimize Imports` - Optimize imports.
+- `File | Settings | Editor | Code Style | C/C++ | Set from... | Predefined Style` - Use well-known code style.
