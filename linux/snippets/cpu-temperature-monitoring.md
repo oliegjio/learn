@@ -1,0 +1,4 @@
+- Install: `sudo apt-get install lm-sensors`.
+- Detect sensors: `sudo sensors-detect`.
+- Activate service: `sudo service kmod start`.
+- See the info: `sensors`.
