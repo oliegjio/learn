@@ -1,0 +1,1 @@
+- To disable recent files, open `dconf` editor and navigate to: `org -> gnome -> desktop -> privacy`. Then disable `remember-recent-files` key.

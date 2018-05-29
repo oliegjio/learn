@@ -73,3 +73,10 @@ super_villains.get('Captain Cold') # Get the value for the key.
 super_villains.keys() # Get the keys from a dictionary (as a list).
 super_villains.values() # Get the values from a dictionary (as a list).
 
+some_dict = {
+    'Some': 'Value',
+    'Another': 'Value',
+    'And': 'Someghing'
+}
+
+together = {**super_villains, **some_dict} # Join two dictionaries.

@@ -6,6 +6,7 @@
 - `Alt + Enter` - Quick fix error.
 - `Ctrl + Space` - Somplete 'code completion' suggestion.
 - `Ctrl + N` - Find class.
+- `Ctrl + Q` - View inline documentation.
 - `Alt + F7` - Find usage for thing under cursor.
 - `Ctrl + Alt + F7` - Find usage (extended) for thing under cursor.
 - `Ctrl + Shift + F7` - Quickly highlight usages of some variable in the current file.
@@ -15,6 +16,7 @@
 - `Ctrl + H` - Open class hierarchies.
 - `Ctrl + Shift + I` - View definition or content of thing under cursor (but don't open it).
 - `Ctrl + P` - If cursor is between parentheses of a method call, brings up a list of valid parameters.
+- `Ctrl + P` - View method parameters information.
 - `Ctrl + F12` - Outline current file contents.
 - `Alt + F1` - Quickly select the currently edited element.
 - `Ctrl + Alt + T` - Wrap selected code in useful constructs (if, while...).

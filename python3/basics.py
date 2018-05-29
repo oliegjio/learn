@@ -1,7 +1,3 @@
-import random # Import random module generator.
-import sys # Import system-specific functions.
-import os # Import functions for operating system interface. Such read files etc...
-
 # You can use single or double quotes for strings. They are the same.
 print("Hello, world!") # Print with new line.
 
@@ -33,5 +29,8 @@ print("Print withoug new line", end='') # Print without new line.
 
 print("Multiple" * 5) # Prints string 5 times.
 
-del multi_line_string[0] # Deletes an item inside a list.
+var1 = "text"
+var2 = 5
+print(f"Interpolate {var1} and {var2}") # Interpolation.
+
 del multi_line_string # Delets a variable.
