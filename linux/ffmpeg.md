@@ -1,0 +1,1 @@
+- Increase volume by 50%: `ffmpeg -i input.mp3 -filter:a "volume=1.5" output.mp3`.

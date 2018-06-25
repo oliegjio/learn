@@ -1,11 +1,11 @@
 program transpose;
 
 const
-  n = 3;
-  m = 2;
+  n = 4;
+  m = 3;
 
 var
-  matrix : array [1..n, 1..m] of integer;
+  matrix : array [1 .. n, 1 .. m] of integer;
   i : integer;
   j : integer;
   f : textfile;
