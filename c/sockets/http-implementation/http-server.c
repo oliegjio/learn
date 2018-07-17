@@ -42,7 +42,7 @@ int main() {
     struct sockaddr_in server_address;
 
     server_address.sin_family      = AF_INET;
-    server_address.sin_port        = htons(8001);
+    server_address.sin_port        = htons(80);
     server_address.sin_addr.s_addr = INADDR_ANY;
 
     // Bind the socket to the address:
