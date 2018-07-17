@@ -1,0 +1,8 @@
+Actually there is no such thing as `client` or `server` socket.
+The socket is a two way waypoints: you can receive and send information on both ends.
+
+- The client socket is created with socket() call.
+- Connected to remote address with connect() call.
+- And then can retrieve data with the recv() call.
+
+socket() => connect() => recv().

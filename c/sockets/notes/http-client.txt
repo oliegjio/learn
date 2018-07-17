@@ -1,0 +1,5 @@
+- An HTTP client sends a request specifying a method (get, post, etc...), and a resource (address of some file or directory).
+- Server response back with particular response with some information.
+- Server response has:
+- - Response body, containing requested information.
+- - Status code, which indicates whether request is successful or not.

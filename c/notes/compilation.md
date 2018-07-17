@@ -1,1 +1,0 @@
-To compile C program, run: `gcc <main_file_path>.c -o <output_file_path>`.

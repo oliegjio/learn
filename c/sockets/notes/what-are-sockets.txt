@@ -1,0 +1,5 @@
+- Sockets are low level endpoint used for processing information across a network.
+- Popular protocols based on sockets: HTTP, FTP.
+- Anything that interact with network could be built with sockets.
+- Sockets are basic building blocks of network communication.
+- Sockets sit underneath all of the common internet protocols that we use.

@@ -1,0 +1,12 @@
+A pointer of type void represents the address of an object, but not it's type
+
+Declaration of a variable/function simply declares that the variable/function exists somewhere in the program but the memory is not allocated for them. When we define a variable/function, it also allocates memory for that variable/function.
+
+Variable or function can be declared any number of times, but can be defined only once.
+
+Keyword "extern" used with variable definition declares the variable, but you will need to define it somewhere else, outside of this file.
+Keyword "extern" expands visibility of variable to the whole program.
+
+The expression sizeof(type) yields the storage size of the object or type in bytes.
+
+Angle brackets in include statements usually used for system headers. Quotes in include statements usually used for headers in the current working directory.

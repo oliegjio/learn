@@ -1,0 +1,7 @@
+- On the server we need to call socket().
+- Then we need to bind() that socket to an IP and port.
+- Then you we can listen() for connections.
+- And finally accept() the connection.
+- Then you can send() and receive() data.
+
+socket() => bind() => listen() => accept().
